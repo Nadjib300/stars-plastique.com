@@ -1,0 +1,12 @@
+body, h1.index-section-title{
+  font-family: 'DroidArabicKufiRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+#productsApp .pull-right{
+  float:left!important;
+}
+#productsApp .push-left{
+  float:right!important;
+}
